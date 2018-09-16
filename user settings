@@ -1,0 +1,8 @@
+{
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 16,
+    "editor.tabSize": 4,
+    "editor.hover.enabled": false
+}
